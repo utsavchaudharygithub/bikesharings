@@ -1,4 +1,5 @@
 #Citibike
+
 #Analysis:
  We have created a dashboard and story on Tableau to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis. hereby, we created new dataframe using citybike system data page. 
  
