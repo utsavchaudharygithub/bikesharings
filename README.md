@@ -9,7 +9,7 @@ citibike Analysis using Tableau:
 
 [Checkout times for all Users](https://public.tableau.com/views/citibikeassignments/Checkouttimesforallusers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-[Checkout times by genders] (https://public.tableau.com/views/citibikeassignments/Checkoutbygenders?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)comparatively males ride bikes more then woman and unknowns
+[Checkout times by genders] (https://public.tableau.com/views/citibikeassignments/Checkoutbygenders?:language=enUS&publish=yes&:display_count=n&:origin=viz_share_link)comparatively males ride bikes more then woman and unknowns
 
 [trips per hours for weekdays](https://public.tableau.com/views/citibikeassignments/tripsperhoursforweekdays?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) Peak times are 6 AM to 10AM
 
